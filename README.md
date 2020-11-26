@@ -1,3 +1,4 @@
+c0117155 新宮隆太
 # node_grouping_v2
 
 https://github.com/homirun/node_grouping で見つかった問題点を修正
